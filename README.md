@@ -2,7 +2,7 @@
  
 
 Add the db folder to include in import inside the programs<br>
-Compile and Run <br>
+Compile and Run 'main.go'<br>
 Create a MongoDb local server<br>
 use the Url - localhost:30000/ <br>
 localhost:30000/ - homepage<br>
